@@ -1,0 +1,72 @@
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 16px;
+  letter-spacing: 2%;
+  line-height: 1.5;
+  color: #434455;
+}
+a {
+  text-decoration: none;
+}
+ul,
+ol {
+  list-style-type: none;
+}
+h2 {
+  color: #2e2f42;
+  font-weight: bold;
+  font-size: 36px;
+  letter-spacing: 2%;
+}
+h3 {
+  font-size: 20px;
+  font-weight: medium;
+  letter-spacing: 2%;
+  color: #2e2f42;
+}
+.logo .WEB-in-logo {
+  color: #4d5ae5;
+}
+.logo {
+  color: #2e2f42;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+.navigation a {
+  color: #2e2f42;
+  font-size: 12px;
+}
+.navigation a:hover,
+.navigation a:focus {
+  color: #404bbf;
+}
+.contacts a {
+  color: #434455;
+  font-size: 12px;
+}
+.contacts a:hover,
+.contacts a:focus {
+  color: #404bbf;
+}
+.hero {
+  background-color: #2e2f42;
+}
+.title-h1 {
+  font-weight: bold;
+  font-size: 56px;
+  letter-spacing: 2%;
+  color: #ffffff;
+}
+.button {
+  color: #ffffff;
+  background-color: #4d5ae5;
+  border-style: none;
+  border-radius: 2px;
+  font-weight: medium;
+  font-size: 16px;
+  cursor: pointer;
+}
+.button:hover,
+.button:focus {
+  background-color: #404bbf;
+}
