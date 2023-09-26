@@ -19,11 +19,15 @@ h2 {
   font-size: 36px;
   letter-spacing: 2%;
 }
-h3 {
+.h3-section2 {
   font-size: 20px;
-  font-weight: medium;
-  letter-spacing: 2%;
+  font-weight: 500;
+  letter-spacing: 0.02em;
   color: #2e2f42;
+  line-height: 1.2;
+}
+.p-section2 {
+  letter-spacing: 0.02em;
 }
 .logo {
   color: #2e2f42;
