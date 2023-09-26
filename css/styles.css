@@ -64,11 +64,13 @@ h3 {
 .hero {
   background-color: #2e2f42;
 }
-.title-h1 {
+.title-h {
   font-weight: bold;
   font-size: 56px;
-  letter-spacing: 2%;
+  letter-spacing: 0.02em;
   color: #ffffff;
+  line-height: 1.07;
+  text-align: center;
 }
 .button {
   color: #ffffff;
@@ -77,6 +79,9 @@ h3 {
   font-weight: medium;
   font-size: 16px;
   cursor: pointer;
+  font-weight: 500;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
 }
 .button:hover,
 .button:focus {
