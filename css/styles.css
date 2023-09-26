@@ -27,18 +27,26 @@ h3 {
 }
 .logo {
   color: #2e2f42;
-  font-size: 16px;
+  font-size: 18px;
   font-family: "Raleway", sans-serif;
-  font-weight: 500;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
 }
 .logo:focus,
 .logo:hover {
   color: #404bbf;
 }
+.logo1 a {
+  color: #2e2f42;
+  text-transform: uppercase;
+}
 .studio-in-logo-header {
   color: #2e2f42;
+}
+.studio-in-logo-header:hover,
+.studio-in-logo-header:focus {
+  color: #404bbf;
 }
 .logo .studio-in-logo {
   color: #f4f4fd;
@@ -95,6 +103,10 @@ h3 {
 }
 .footer {
   background-color: #2e2f42;
+}
+.footer .logo {
+  text-transform: uppercase;
+  color: #4d5ae5;
 }
 .footer-p {
   color: #f4f4fd;
