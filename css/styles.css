@@ -24,15 +24,27 @@ ol {
   letter-spacing: 0.02em;
 }
 .logo {
-  color: #2e2f42;
+  color: #4d5ae5;
   font-size: 18px;
   font-family: "Raleway", sans-serif;
   font-weight: 700;
   line-height: 1.17;
   letter-spacing: 0.03em;
+  text-transform: uppercase;
 }
 .logo:focus,
 .logo:hover {
+  color: #404bbf;
+}
+.nav {
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.nav:hover,
+.nav:focus {
   color: #404bbf;
 }
 .logo1 a {
