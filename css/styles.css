@@ -4,6 +4,7 @@ body {
   letter-spacing: 2%;
   line-height: 1.5;
   color: #434455;
+  background-color: #ffffff;
 }
 a {
   text-decoration: none;
@@ -61,7 +62,6 @@ h3 {
   color: #ffffff;
   background-color: #4d5ae5;
   border-style: none;
-  border-radius: 2px;
   font-weight: medium;
   font-size: 16px;
   cursor: pointer;
