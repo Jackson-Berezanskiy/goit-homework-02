@@ -25,21 +25,37 @@ h3 {
   letter-spacing: 2%;
   color: #2e2f42;
 }
-.logo .WEB-in-logo {
-  color: #4d5ae5;
-}
 .logo {
-  color: #2e2f42;
+  color: #4d5ae5;
   text-transform: uppercase;
   font-size: 18px;
+  font-family: "Raleway", sans-serif;
+  font-weight: 700;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+}
+.logo .WEB-in-logo {
+  color: #2e2f42;
 }
 .navigation a {
   color: #2e2f42;
   font-size: 12px;
 }
+.nav-link-studio {
+  font-weight: 500;
+  font-size: 16px;
+  letter-spacing: 0.02em;
+}
 .navigation a:hover,
 .navigation a:focus {
   color: #404bbf;
+}
+.address {
+  font-style: normal;
+}
+.address .address-mail {
+  font-size: 16px;
+  letter-spacing: 0.02em;
 }
 .contacts a {
   color: #434455;
