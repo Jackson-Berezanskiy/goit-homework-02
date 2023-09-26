@@ -111,6 +111,17 @@ ol {
 .button:focus {
   background-color: #404bbf;
 }
+.third-section {
+  background-color: #f4f4fd;
+}
+.h_two-section-three {
+  font-size: 36px;
+  line-height: 1.11;
+  text-align: center;
+  letter-spacing: 0.02em;
+  text-transform: capitalize;
+  color: #2e2f42;
+}
 .h-section-four {
   line-height: 1.11;
   text-align: center;
