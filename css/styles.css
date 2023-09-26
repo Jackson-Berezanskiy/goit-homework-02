@@ -35,7 +35,7 @@ h3 {
   letter-spacing: 0.03em;
 }
 .logo .WEB-in-logo {
-  color: #2e2f42;
+  color: #f4f4fd;
 }
 .nav-link-studio {
   font-weight: 500;
@@ -86,4 +86,11 @@ h3 {
 .button:hover,
 .button:focus {
   background-color: #404bbf;
+}
+.footer {
+  background-color: #2e2f42;
+}
+.footer-p {
+  color: #f4f4fd;
+  letter-spacing: 0.02em;
 }
